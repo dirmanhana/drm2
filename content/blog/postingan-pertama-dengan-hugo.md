@@ -1,6 +1,6 @@
 ---
 title: ini adlah postingan ke dua
-date: 2021-12-23T15:21:54+05:30
+date: 2023-06-19T16:31:54+05:30
 categories: [development, publishing]
 author: dirman
 tags: [hugo,content,static site generator]
