@@ -1,5 +1,5 @@
 ---
-title: ini adlah postingan pertama
+title: ini adalah postingan pertama
 date: 2021-12-23T15:21:54+05:30
 categories: [development, publishing]
 tags: [hugo,content,static site generator]
