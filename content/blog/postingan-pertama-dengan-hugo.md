@@ -1,6 +1,6 @@
 ---
 title: Pertama kali posting dengan hugo
-date: 2023-06-19T16:31:54+05:30
+date: 2023-06-19T15:21:54+05:30
 categories: [hugo, publishing]
 author: dirman
 tags: [hugo, content]
