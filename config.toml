@@ -1,7 +1,6 @@
 baseURL = 'https://drmn.netlify.app/'
 languageCode = 'en-us'
 title = 'dirman hana'
-
 theme = "aether"
 googleAnalytics = "Your google analytics tracking ID - optional"
 disqusShortname = "Your shortname for Disqus - optional"
@@ -30,7 +29,7 @@ disqusShortname = "Your shortname for Disqus - optional"
 [markup]
   [markup.highlight]
     style = "igor"
-    
+
 [[menu.main]]
   name ="Home"
   url = "/"
