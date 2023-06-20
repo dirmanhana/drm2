@@ -8,7 +8,7 @@ author: dirman
 
 kalau kita mengungat mundur sejenak, masa dimana masih sekolah di jaman 2000an dan kita ingin meng SMS pacar, teman atau kerabat, saya rasa saking hapal nya dengan keybad sampai sampai kita tidak akan melikat layar hp karena memang di masa itu dengan keypad T9 kita semua hapal letak dan hurufnya, jadi kita melihat layar kalo si doi sudah bales SMS kita saja, itu juga buru buru di taruh di saku celana atau kedalam tas, pasalnya di zaman itu ada beberapa sekolah yang memang tidak membolehkan siswanya membawa hp.
 
-![Example image](/static/img/nokia.jpg)
+![Example image](/nokia.jpg)
 
 Dua merek hp yang dulu pernah saya gunakan, yang pertama adalah hp merek fren yang dulu di bundling dengan kartu CDMA fren juga, saya dulu kumpulin uang dan tertarik beli hp ini karena biaya sms nya yang lumayan murah ke semua opreator, kalo ke sesama operator mah jangan di tanya.
 
