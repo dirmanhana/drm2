@@ -2,29 +2,6 @@ baseURL = 'https://drmn.netlify.app/'
 languageCode = 'en-us'
 title = 'dirman hana'
 theme = 'aether'
-googleAnalytics = "Your google analytics tracking ID - optional"
-disqusShortname = "Your shortname for Disqus - optional"
-
-[params]
-  brand = "The name that is displayed in the top left of the website - optional, title is fallback"
-  description = "The website's description"
-  bgimg = "Path, within the 'assets' folder, of the image used for the page background - optional"
-  headshotimg = "Path, within the 'assets' folder, of the image used for the home page header - optional"
-  headshotalt = "Alt text for the headshotimg - should be used with headshotimg"
-  rssinmenu = whether you would like a RSS feed link to appear in the nav menu and footer (true, false) - optional
-  facebook = "URL to your Facebook account, icon link will be included in the footer - optional"
-  flicker = "URL to your Flicker account, icon link will be included in the footer - optional"
-  github = "URL to your GitHub account, icon link will be included in the footer - optional"
-  instagram = "URL to your Instagram account, icon link will be included in the footer - optional"
-  linkedin = "URL to your LinkedIn account, icon link will be included in the footer - optional"
-  patreon = "URL to your Patreon account, icon link will be included in the footer - optional"
-  soundcloud = "URL to your Soundcloud account, icon link will be included in the footer - optional"
-  spotify = "URL to your Spotify account, icon link will be included in the footer - optional"
-  tumblr = "URL to your Tumblr account, icon link will be included in the footer - optional"
-  twitch = "URL to your Twitch account, icon link will be included in the footer - optional"
-  twitter = "URL to your Twitter account, icon link will be included in the footer - optional"
-  vimeo = "URL to your Vimeo account, icon link will be included in the footer - optional"
-  youtube = "URL to your Youtube account, icon link will be included in the footer - optional"
 
 [markup]
   [markup.highlight]
