@@ -1,5 +1,5 @@
 ---
-title: ini adalah posting pertama saya dengan hugo
+title: Tri dan Xl jempol adalah profider gsm yang jaman dulu jadi andalan saya
 date: 2019-03-21T15:21:54+05:30
 categories: [development, publishing]
 tags: [tri,xl,nokia jadul]
